@@ -9,9 +9,9 @@
 
 # Privileged EXEC Mode
 
-<p>Untuk memasuki mode ini ketikkan "enable". Dan untuk kembali ke mode awal yaitu mode User, ketikkan "exit"</p>
+<p>Untuk memasuki mode ini ketikkan `enable`. Dan untuk kembali ke mode awal yaitu mode User, ketikkan `exit`</p>
 
 # Global Configuration Mode
 
-<p>Untuk memasuki mode, sebelumnya kita harus masuk ke mode Privileged. Di Mode ini adalah mode yang dapat digunaka untuk melakukan konfigurasi pada Router. Pertama ketikkan "enable", kita telah masuk ke mode Privileged. Kemudian ketikkan lagi "conf term" atau "configure terminal". Maka kita telah masuk ke Mode Global Configuration.</p>
+<p>Untuk memasuki mode, sebelumnya kita harus masuk ke mode Privileged. Di Mode ini adalah mode yang dapat digunaka untuk melakukan konfigurasi pada Router. Pertama ketikkan `enable`, kita telah masuk ke mode Privileged. Kemudian ketikkan lagi `conf term` atau `configure terminal`. Maka kita telah masuk ke Mode Global Configuration.</p>
 
